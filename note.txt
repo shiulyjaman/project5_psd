@@ -1,0 +1,47 @@
+psd html                                                                
+ download
+    google fonts
+    file cloudconvert.com
+
+fonts
+
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+
+file
+woff
+otf
+ttf 
+   
+   soport kore na
+eot
+
+svg site slow kore fele
+
+    cross browser support
+    file-mp4,mp3
+    code
+
+    crose flatform support
+
+
+
+
+@font-face {
+    font-family: Raleway-Bold;
+    src: url(../fonts/raleway/Raleway-Bold.ttf);
+}
+
+@font-face {
+    font-family: Raleway-Light;
+    src: url(../fonts/raleway/Raleway-Light.ttf);
+}
+
+h1{
+    font-family: Raleway-Light;
+    font-weight: 300;
+}
+
+
+
+
